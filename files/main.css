@@ -1,0 +1,476 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+header {
+ width: 100%;
+  height: 90px;
+  margin: 0 auto;
+ background-color: #ec008c;
+}
+
+section {
+  max-width: 1138px;
+  margin: 0 auto;
+}
+
+.block {
+  max-width: 1290px;
+  height: 90px;
+ padding: 0 15px;
+ margin: 0 auto;
+
+}
+.menu {
+  widows: 100%;
+ height: 34px;
+ margin: 0 auto;
+ background: #7ec1df;
+}
+
+.bl_blue {
+  width: 628px;
+  margin: 0 auto;
+  height: 34px;
+  background: url('https://zdorovie-i-krasota.info/img/menu.png') no-repeat;
+}
+.bl_blue a
+{
+display: block;
+  height: 100%;
+}
+.left {
+ max-width: 815px;
+}
+.left img {
+  max-width: 100%;
+}
+img.after_menu {
+  display: block;
+}
+
+.right {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+  display: inline-block;
+  float: right;
+}
+img.r2 {
+  margin-top: 26px;
+}
+
+footer {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.content_f {
+  max-width: 1292px;
+  margin:  0 auto;
+  background: #ffe5a6;
+}
+
+.content1 {
+  width: 100%;
+  background: #ffe5a6;
+  overflow: hidden;
+}
+img.arrow {
+  position: absolute;
+  margin-top: -22px;
+}
+
+
+
+.all {
+width: 100%;
+    background: #ffe5a6;
+}
+img.news {
+  margin-top: 104px;
+}
+.all2 {
+  width: 100%;
+  height: 297px;
+  margin: 0 auto;
+  background-color: #ec008c;
+  /* position: absolute; */
+  /* bottom: 0; */
+  margin-top: 151px;
+}
+.content2 {
+ width: 100%;
+  height: 297px;
+  
+}
+img.foter {
+  /* top: 0; */
+  position: relative;
+  margin-top: -85px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: -87px;
+}
+.all3 {
+  width: 100%;
+  height: 297px;
+}
+
+.none {
+ widows: 100%;
+  height: 1px;
+}
+
+.bold {
+ font-family: "trebuchet ms";
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.title {
+  font-family: "trebuchet ms";
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.commit_shar {
+  font-family: arial;
+  font-size: 20px;
+}
+
+.shar2 {
+  font-family: arial;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.gold {
+ color: #8a410c;
+}
+
+.bold2 {
+font-weight: 700;
+}
+
+.img_txt {
+  font-family: arial;
+  font-size: 16px;
+  line-height: 1.3;
+  float: left;
+  font-weight: 700;
+}
+img.leg2 {
+  float: right;
+  margin-top: 20px;
+}
+p.after_leg {
+  display: block;
+  /* margin-top: 113px; */
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 247px;
+  /* text-align: center; */
+  font-family: arial;
+  font-size: 16px;
+}
+
+.after_red {
+   font-family: arial;
+  font-size: 16px;
+  font-weight: 700;
+  color: #cd0000;
+}
+
+a.red_link:visited
+{
+    color: #cd0000;
+  text-decoration: underline;
+}
+a.red_link:link
+{
+    color: #cd0000;
+  text-decoration: underline;
+}
+img.coment_add {
+  width: 100%;
+  margin-top: 24px;
+}
+img.ref {
+  width: 100%;
+  margin-top: 30px;
+}
+.commit {
+  max-width: 800px;
+  margin: 0 auto;
+  height: auto;
+  padding-top: 28px;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-family: Verdana;
+  font-size: 16px;
+  color: #f89406;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.commit_txt {
+  font-family: arial;
+  font-size: 16px;
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+.rose {
+ font-family: arial;
+  color: #e06ead;
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+.commit1 {
+ max-width: 800px;
+  margin: 0 auto;
+}
+.commit4 {
+ max-width: 800px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+
+.c_left {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/1.png') no-repeat;
+  margin-top: 2px;
+}
+
+.commit2 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+.c_left1 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/2.png') no-repeat;
+  margin-top: 2px;
+}
+.commit3 {
+  max-width: 800px;
+  height: 112px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+.c_left2 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/3.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left3 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/4.png') no-repeat;
+  margin-top: 2px;
+}
+.commit5 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+
+.c_left4 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/5.png') no-repeat;
+  margin-top: 2px;
+}
+
+
+
+
+.commit6 {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+
+.c_left5 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/6.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left7 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/8.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left8 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/9.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left9 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/10.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left10 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/11.png') no-repeat;
+  margin-top: 2px;
+}
+.c_left11 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/12.png') no-repeat;
+  margin-top: 2px;
+}
+
+.commit7 {
+  max-max-width: 800px;
+  margin: 0 auto;
+  margin-top: 33px;
+}
+.c_left6 {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+  background: url('https://zdorovie-i-krasota.info/img/7.png') no-repeat;
+  margin-top: 2px;
+}
+
+.header_flex {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.header-top {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+.arrow_l {
+  display: flex;
+  padding: 20px;
+  background-color: #ec168b;
+  text-transform: uppercase;
+  justify-content: center;
+  text-decoration: none;
+  color: #fff;
+  max-width: 200px;
+  margin: 20px auto 0;
+}
+.menu-open {
+  background-position: center;
+  background-repeat: no-repeat;
+  /* max-width: 100%; */
+  display: block;
+  background-size: contain;
+  height: 100%;
+}
+
+@media screen and (max-width: 1120px){
+  .header_flex, .header-top {
+      padding: 0 15px; 
+  }
+  .header_flex .right {
+      display: none;
+  }
+  .header_flex .left {
+      max-width: 100%;
+  }
+  .content_f .news_l {
+      max-width: 100%;
+      display: flex;
+      overflow-x: scroll;
+      padding: 0 15px;
+  }
+  img.news {
+      margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .menu-open {
+    max-width: 320px;
+    background-size: cover;
+    background-position: 0 0;
+  }
+  .delete {
+      display: none!important;
+  }
+  .all2 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px){
+  img.leg2 {
+    float: none;
+  }
+  p.after_leg {
+    margin-top: 10px;
+  }
+  .c_left, .c_left1, .c_left2, .c_left3, .c_left4, .c_left5, .c_left6, .c_left7, .c_left8, .c_left9 {
+    display: none;
+  }
+  .rose {
+    margin-top: 6px;
+  }
+  .content1 {
+    padding-bottom: 30px;
+  }
+}
